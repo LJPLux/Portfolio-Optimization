@@ -1,6 +1,6 @@
 # Portfolio-Optimization
 Efficiency testing within CAPM &amp; Fama French
-
+This contribution is for hosting Excel files and displaying the R Script deemed necessary for my Bachelor thesis.
 
 Testing 5 stocks:   AMZN,BIDU,DIS,GOOG & MRK
 
